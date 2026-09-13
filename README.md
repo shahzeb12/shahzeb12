@@ -110,11 +110,11 @@ I'm currently focused on building scalable platforms that bring multiple busines
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shahzeb12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="./profile/stats.svg"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb12&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     height="170"
   />
 </p>
@@ -136,7 +136,7 @@ I'm currently focused on building scalable platforms that bring multiple busines
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahzeb12&theme=tokyo-night&hide_border=true"
+    src="https://raw.githubusercontent.com/shahzeb12/shahzeb12/output/activity-graph.svg"
     alt="GitHub Activity Graph"
   />
 </p>
