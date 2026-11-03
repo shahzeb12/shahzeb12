@@ -142,10 +142,7 @@ I'm currently focused on building scalable platforms that bring multiple busines
 </p>
 
 ## 📊 Profile Views
-<p>
-  ![](https://komarev.com/ghpvc/?username=shahzeb12)
-
-</p>
+![](https://komarev.com/ghpvc/?username=shahzeb12)
 
 ---
 
