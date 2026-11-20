@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahzaib Nisar
+# 👋 Hi, I'm Shahzeb Nisar
 
 <h3 align="center">
   Senior Full-Stack Developer · Web Portals · Business Automation · SaaS
@@ -8,7 +8,7 @@
   <a href="https://shahzeb12.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shahzaib-nisar-884432108/">
+  <a href="https://www.linkedin.com/in/shahzeb-nisar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/shahzeb12">
@@ -167,7 +167,7 @@ I believe great software starts with understanding the **business problem** befo
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahzaib-nisar-884432108/">
+  <a href="https://www.linkedin.com/in/shahzeb-nisar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://shahzeb12.github.io/">
